@@ -1,0 +1,7 @@
+C:\Users\Clem\Documents\DEV\CSharp\Battledev\Battledev\bin\Debug\Battledev.exe.config
+C:\Users\Clem\Documents\DEV\CSharp\Battledev\Battledev\bin\Debug\Battledev.exe
+C:\Users\Clem\Documents\DEV\CSharp\Battledev\Battledev\bin\Debug\Battledev.pdb
+C:\Users\Clem\Documents\DEV\CSharp\Battledev\Battledev\obj\Debug\Battledev.csprojAssemblyReference.cache
+C:\Users\Clem\Documents\DEV\CSharp\Battledev\Battledev\obj\Debug\Battledev.csproj.CoreCompileInputs.cache
+C:\Users\Clem\Documents\DEV\CSharp\Battledev\Battledev\obj\Debug\Battledev.exe
+C:\Users\Clem\Documents\DEV\CSharp\Battledev\Battledev\obj\Debug\Battledev.pdb
